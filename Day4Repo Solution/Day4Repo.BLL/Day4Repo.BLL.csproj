@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Day4Repo.DAL\Day4Repo.DAL.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="interfaces\" />
+    <None Remove="Reposatory\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="interfaces\" />
+    <Folder Include="Reposatory\" />
+  </ItemGroup>
+</Project>

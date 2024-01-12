@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/bin/Debug/net6.0/CodeAcademy.BLL.deps.json
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/bin/Debug/net6.0/CodeAcademy.BLL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/bin/Debug/net6.0/CodeAcademy.BLL.pdb
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/bin/Debug/net6.0/CodeAcademy.DAL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/bin/Debug/net6.0/CodeAcademy.DAL.pdb
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.csproj.CopyComplete
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/refint/CodeAcademy.BLL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/CodeAcademy.BLL.pdb
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day5CodeAcademy Solution/CodeAcademy.BLL/obj/Debug/net6.0/ref/CodeAcademy.BLL.dll

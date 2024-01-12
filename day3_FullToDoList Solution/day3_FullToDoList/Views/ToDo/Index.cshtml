@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model List<ToDoList>
+
+
+@{
+}
+
+<div>
+    @*<h3>My To Do List</h3>*@
+    <a asp-controller="ToDo" asp-action="create" class=" btn btn-primary">Add New Task </a>
+</div>
+@if (Model.Count() > 0)
+    {
+        <table>
+            <thead>
+                <th>
+                    <td>id</td>
+                    <td>Task</td>
+                    <td>Due Date</td>
+                    <td>Status</td>
+                    <td>Update</td>
+                    <td>Delete</td>
+                </th>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @item.id
+                            </td>
+                            <td>
+                                @item.task
+                            </td>
+                            <td>
+                                @item.DueDate
+                            </td>
+                            <td>
+                                @item.isFinished
+                            </td>
+                            <td>
+                                <a asp-controller="ToDo" asp-action="Update" class="btn btn-info">Update</a>
+                            </td>
+                            <td>
+                                <a asp-controller="ToDo" asp-action="Delete" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+
+
+            </tbody>
+        </table>                
+        }else
+    {
+        <div class="mt-4 bg-light" >
+            <h3> There is no tasks to do  </h3>
+        </div>
+    }
+
+

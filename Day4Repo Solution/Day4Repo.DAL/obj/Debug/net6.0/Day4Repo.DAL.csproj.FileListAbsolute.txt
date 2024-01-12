@@ -1,0 +1,12 @@
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/bin/Debug/net6.0/Day4Repo.DAL.deps.json
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/bin/Debug/net6.0/Day4Repo.DAL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/bin/Debug/net6.0/Day4Repo.DAL.pdb
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/refint/Day4Repo.DAL.dll
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/Day4Repo.DAL.pdb
+/Users/sabrinal-saidi/Desktop/ASP_practice/Day4Repo Solution/Day4Repo.DAL/obj/Debug/net6.0/ref/Day4Repo.DAL.dll

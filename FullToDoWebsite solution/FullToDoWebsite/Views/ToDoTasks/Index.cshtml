@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<ToDoTasks>
+@*@model ToDoTasks*@
+
+@{
+}
+<div class="Container card text-center .d-flex" style="width: 35rem;">
+    <h1 class="card-header">My ToDo Tasks List </h1>
+    <div class="sec-1">
+        <div class="suday sec-1-pt-1 p-2">
+           <!-- <form method="post" asp-action="Create">
+                <input asp-for="Task_todo" id="todo-task" placeholder="New Task">
+                <input type="date" id="todo-duedate" placeholder="Due Date">
+                <a asp-controller="ToDoTasks" asp-action="Index" class="btn btn-info m-2"> Add Task </a>-->
+                @*<button type="submit"> Add </button>*@
+            <!--</form>-->
+            <a asp-controller="ToDoTasks" asp-action="Create" class="btn btn- m-2"> Add Task </a>
+
+            <hr>
+
+            @if (Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+                    <div draggable="true" class="task border m-2 p-2">
+                        <p> @item.Task_id</p>
+                        <input type="checkbox" id="CBtask1">
+                        <label for="CBtask1">@item.Task_todo</label>
+                        <p>@item.Task_DueDate</p>
+                        <a asp-controller="ToDoTasks" asp-action="Update" asp-route-id=@item.Task_id class="btn btn-info m-2 "> Update </a>
+                        <a asp-controller="ToDoTasks" asp-action="Delete" asp-route-id=@item.Task_id class="btn btn-danger m-2"> Delete </a>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class=" mt-4 bg-light">
+                    <h3>There is no Tasks To Do ..</h3>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

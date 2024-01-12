@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0FBB02E7-5AA5-49EF-B281-BE23D83F8ED2}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day1/Program.cs">
+    <Files>
+      <File FileName="Day1/Controllers/AboutController.cs" Line="4" Column="30" />
+      <File FileName="Day1/Views/About/Index.cshtml" Line="11" Column="1" />
+      <File FileName="Day1/Views/Shared/_Layout.cshtml" Line="22" Column="46" />
+      <File FileName="Day1/Program.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day1 Solution" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="Day1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

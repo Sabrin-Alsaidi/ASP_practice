@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4E273069-C3FA-482B-BE36-45B432BA3410}|Default">
+  <MonoDevelop.Ide.ItemProperties.day3__FullToDoList PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="day3_FullToDoList/Controllers/ToDoController.cs">
+    <Files>
+      <File FileName="day3_FullToDoList/Data/ApplicationDbContext.cs" />
+      <File FileName="day3_FullToDoList/Program.cs" />
+      <File FileName="day3_FullToDoList/appsettings.json" />
+      <File FileName="day3_FullToDoList/Models/ToDoList.cs" />
+      <File FileName="day3_FullToDoList/Controllers/ToDoController.cs" Line="15" Column="58" />
+      <File FileName="day3_FullToDoList/Views/ToDo/Index.cshtml" />
+      <File FileName="day3_FullToDoList/Views/Shared/_Layout.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day3_FullToDoList Solution" expanded="True">
+            <Node name="day3_FullToDoList" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ToDoController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ToDo" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
