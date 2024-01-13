@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{C5E1EF95-BA25-4497-97BC-7D8F30669FCC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="FullToDoWebsite/Views/ToDoTasks/Index.cshtml">
     <Files>
-      <File FileName="FullToDoWebsite/Models/ToDoTasks.cs" Line="20" Column="1" />
-      <File FileName="FullToDoWebsite/Controllers/ToDoTasksController.cs" Line="36" Column="25" />
-      <File FileName="FullToDoWebsite/Views/ToDoTasks/Index.cshtml" Line="6" Column="1" />
-      <File FileName="FullToDoWebsite/Data/ApplicationDbContext.cs" Line="9" Column="10" />
-      <File FileName="FullToDoWebsite/Views/ToDoTasks/Create.cshtml" Line="11" Column="12" />
-      <File FileName="FullToDoWebsite/appsettings.json" Line="1" Column="1" />
-      <File FileName="FullToDoWebsite/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="FullToDoWebsite/Views/ToDoTasks/Index.cshtml" Line="17" Column="1" />
+      <File FileName="FullToDoWebsite/Views/ToDoTasks/Create.cshtml" Line="5" Column="1" />
+      <File FileName="FullToDoWebsite/Data/ApplicationDbContext.cs" Line="9" Column="16" />
+      <File FileName="FullToDoWebsite/Models/ToDoTasks.cs" Line="13" Column="23" />
+      <File FileName="FullToDoWebsite/Views/ToDoTasks/PartialView/CreatePartialView.cshtml" Line="13" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FullToDoWebsite solution" expanded="True">
-            <Node name="FullToDoWebsite" expanded="True">
+            <Node name="FullToDoWebsite">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True" />
-                <Node name="ToDoTasks" expanded="True">
+              <Node name="Views">
+                <Node name="ToDoTasks">
                   <Node name="Index.cshtml" selected="True" />
                 </Node>
               </Node>
@@ -32,8 +30,5 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.FullToDoWebsite PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

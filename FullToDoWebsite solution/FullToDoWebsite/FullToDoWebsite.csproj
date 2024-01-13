@@ -17,9 +17,11 @@
   <ItemGroup>
     <None Remove="Data\" />
     <None Remove="Views\ToDoTasks\" />
+    <None Remove="Views\ToDoTasks\PartialView\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Views\ToDoTasks\" />
+    <Folder Include="Views\ToDoTasks\PartialView\" />
   </ItemGroup>
 </Project>

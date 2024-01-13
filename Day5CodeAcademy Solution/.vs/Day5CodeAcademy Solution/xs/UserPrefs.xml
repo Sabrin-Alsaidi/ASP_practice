@@ -1,35 +1,30 @@
 ﻿<Properties StartupConfiguration="{814413BB-0972-4420-A375-2E72BFE57D0E}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Day5CodeAcademy.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodeAcademy.DAL/Migrations/20240109120903_New Migration.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day5CodeAcademy/Program.cs">
     <Files>
-      <File FileName="CodeAcademy.BLL/Reposatory/DepartmentReposatory.cs" Line="10" Column="5" />
-      <File FileName="CodeAcademy.BLL/Reposatory/EmployeeReposatory.cs" Line="10" Column="10" />
-      <File FileName="CodeAcademy.BLL/Reposatory/GernericReposatory.cs" Line="1" Column="1" />
-      <File FileName="CodeAcademy.DAL/Context/ApplicationDbContext.cs" Line="1" Column="1" />
-      <File FileName="CodeAcademy.DAL/Migrations/20240109120903_New Migration.cs" Line="2" Column="1" />
+      <File FileName="CodeAcademy.DAL/Context/ApplicationDbContext.cs" />
+      <File FileName="Day5CodeAcademy/Program.cs" Line="4" Column="22" />
+      <File FileName="Day5CodeAcademy/appsettings.json" Line="10" Column="118" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Day5CodeAcademy Solution" expanded="True">
-            <Node name="CodeAcademy.BLL" expanded="True" />
+          <Node name="Day5CodeAcademy Solution">
             <Node name="CodeAcademy.DAL" expanded="True">
               <Node name="Context" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
             </Node>
-            <Node name="Day5CodeAcademy.PL" expanded="True" selected="True">
-              <Node name="Controllers" expanded="True" />
+            <Node name="Day5CodeAcademy.PL" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day5CodeAcademy.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

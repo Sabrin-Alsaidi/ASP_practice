@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model ToDoTasks
+
+@{
+}
+<form class="" asp-action="Create">
+    <input asp-for="Task_todo" id="todo-task" placeholder="New Task">
+    <input asp-for="Task_DueDate" id="todo-duedate" placeholder="Due Date">
+    <input type="submit" value="Add New Task" class="btn btn-primary" />
+    @*<button type="submit"> Add </button>*@
+</form>

@@ -2,12 +2,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day4Repo/Views/Department/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4Repo.DAL/Context/ApplicationDbContext.cs">
     <Files>
-      <File FileName="Day4Repo/Controllers/DepatmentController.cs" Line="64" Column="10" />
+      <File FileName="Day4Repo/Controllers/DepatmentController.cs" />
       <File FileName="Day4Repo/Views/Department/Index.cshtml" Line="49" Column="1" />
-      <File FileName="Day4Repo/Views/Department/Create.cshtml" Line="1" Column="1" />
-      <File FileName="Day4Repo/Views/Department/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Day4Repo/Views/Department/Create.cshtml" />
+      <File FileName="Day4Repo/Views/Department/Details.cshtml" />
+      <File FileName="Day4Repo/appsettings.json" Line="1" Column="1" />
+      <File FileName="Day4Repo.DAL/Context/ApplicationDbContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,15 +20,15 @@
               <Node name="Reposatory" expanded="True" />
             </Node>
             <Node name="Day4Repo.DAL" expanded="True">
-              <Node name="Context" expanded="True" />
+              <Node name="Context" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
               <Node name="Model" expanded="True" />
             </Node>
             <Node name="Day4Repo.PL" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Department" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Department" expanded="True" />
               </Node>
             </Node>
           </Node>
